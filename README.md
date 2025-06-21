@@ -6,7 +6,7 @@
 ## Overview
   A **2D Side-Scrolling Platformer** following a young boy's journey through life's harsh challenges. As he ventures beyond his perceived world, he must overcome obstacles that test his resolve and reveal deeper truths about existence. 
   <br><br>
-  My goal is to turn **2D Platforming** into a tool that replicates real-life struggles, developing the player’s critical thinking for overcoming challenges and finding solutions to confront their personal fears. Each stage of the game mimics iconic spiritual realms known to mankind (Living World, Limbo, Paradiso, etc.). By conquering these virtual trials, players experience a transformative journey that redefines their limitations, encourages self-reflection, and turns in-game achievements into tangible self-empowerment.
+  My goal is to turn **2D Platforming** into a tool that replicates real-life struggles, developing the player’s critical thinking for overcoming challenges and finding solutions to confront their personal fears. With each stage mimics the iconic spiritual realms known to mankind **(Living World, Limbo, Paradiso, etc.)**
 
 ## Guide
 ### Movements
