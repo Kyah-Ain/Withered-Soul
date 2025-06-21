@@ -18,7 +18,8 @@
   
 </div>
 
-### Special Abilities
+<!-- 
+### Special Ability
 - To activate the laser, press the **'L'** key **(costs 1 coin per shot)**. The laser would then instantly destroy any enemy it hits.
 
 <div align ="center">
@@ -26,9 +27,10 @@
   <img src="https://github.com/user-attachments/assets/9ff9ea13-25b2-4f0e-9fab-bf4863ba8ab4" width="900" alt="Resized Image">
   
 </div>
+-->
 
 ### Goal
-- To
+- The objective is to overcome obstacles and enemies blocking your path to progress through each level.
 
 <div align ="center">
   
@@ -42,7 +44,10 @@
   | --------------- | --------------------------- |
   | Move            | A/D or Left/Right Arrow     |
   | Jump            | Spacebar                    |
+  
+<!--
   | Special Ability | L                           |
+-->
 
 ## Project Type
 - Individual
