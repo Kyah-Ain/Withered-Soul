@@ -2,6 +2,7 @@
 
 ## Logline
   A lost boy battles through a perilous, ever-changing worlds, following his curiosity through obstacles that mirror life's struggles in pursuit of something greater.
+  
 ## Overview
   A **2D Side-Scrolling Platformer** following a young boy's journey through life's harsh challenges. As he ventures beyond his perceived world, he must overcome obstacles that test his resolve and reveal deeper truths about existence. 
   <br><br>
@@ -37,7 +38,7 @@
   
 </div>
 
-### Control Summary
+### Controls Summary
   
   |     Action      |            Input            |
   | --------------- | --------------------------- |
