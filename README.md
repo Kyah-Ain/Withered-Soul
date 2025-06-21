@@ -1,4 +1,4 @@
-# Withered Soul (developed using Unity Engine)
+# Withered Soul (developed using Unity)
 
 ## Logline
   A lost boy battles through a perilous, ever-changing worlds, following his curiosity through obstacles that mirror life's struggles in pursuit of something greater.
